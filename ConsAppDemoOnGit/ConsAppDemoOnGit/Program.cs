@@ -10,7 +10,7 @@ namespace ConsAppDemoOnGit
     {
         static void Main(string[] args)
         {
-            var printMe = "Hello Git"
+            var printMe = "Hello Git";
             Console.WriteLine(printMe);
         }
     }
